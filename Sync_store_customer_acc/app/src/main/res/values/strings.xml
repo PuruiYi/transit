@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">stores</string>
+    <string name="title_stores">Available Stores</string>
+    <string name="default_text">No available stores found</string>
+    <string name="view_item">items</string>
+
+</resources>
