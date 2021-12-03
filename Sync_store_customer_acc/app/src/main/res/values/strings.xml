@@ -1,0 +1,13 @@
+<resources>
+<<<<<<< HEAD
+    <string name="app_name">stores</string>
+    <string name="title_stores">Available Stores</string>
+    <string name="default_text">No available stores found</string>
+    <string name="view_item">items</string>
+=======
+    <string name="app_name">Sync_store_customer_acc</string>
+    <string name="title_stores">Available Stores</string>
+    <string name="store_list">No available stores found</string>
+>>>>>>> 14b481d1293d47b3da866d2f76af5fe078f874d8
+
+</resources>
